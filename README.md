@@ -1,16 +1,30 @@
-## Hi there 👋
 
-<!--
-**lol9i/lol9i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+ ------------------------------  ------------------------------
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+
+<img src="assets/gif1.gif">
+
+</div>
+
+<div align="center">
+
+[<img src="assets/ggg.png">](https://discord.gg/Vz6xCU9wJv)
+
+</div>
+
+<div align="center">
+
+Java vibe coder :3
+
+</div>
+
+<div align="center">
+
+------------------------------------------------------------
+</div>
+
